@@ -7,5 +7,5 @@ https://drive.google.com/drive/folders/18-DU2c28N61mje198QNtqrII7xwOzVre?usp=sha
 
 Voici le lien du Notebook sur l'interprétabilité :
 
-https://colab.research.google.com/drive/1OPoqozAWRCyhk1TxX6zYAT7Ci3GajkCp?usp=sharing
+https://colab.research.google.com/drive/1whTGir4K33PKMW91ZvKdZSCBDfIu4oe5?usp=sharing
 
